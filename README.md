@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Faizan Hussain
 
 
-**Faizi805/Faizi805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!---**Faizi805/Faizi805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 About me:
 - ⚡ I’m currently doing my Bachelors in Electrical Engineering from NUST Pakistan
