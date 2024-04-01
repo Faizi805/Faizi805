@@ -9,7 +9,7 @@ About me:
 - 🌱 I’m currently learning MERN stack
 <!-- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...-->
-- 💬 Ask me about C/C++, Javascript and React, 
+- 💬 Ask me about C/C++,verilog, assembly, Javascript and React, 
 - 📫 How to reach me: faizishah805@gmail.com
 <!--- 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
