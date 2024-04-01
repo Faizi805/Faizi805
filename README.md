@@ -5,8 +5,8 @@
 
 About me:
 - ⚡ I’m currently doing my Bachelors in Electrical Engineering from NUST Pakistan
-- 🔭 I’m currently working on React
-- 🌱 I’m currently learning Deep Learning and MERN stack
+- 🔭 I’m currently working on Deep Learning and React
+- 🌱 I’m currently learning MERN stack
 <!-- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...-->
 - 💬 Ask me about C/C++, Javascript and React, 
