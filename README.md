@@ -1,15 +1,38 @@
-### Hi 👋, I'm Faizan Hussain
+### Hi there! 👋 I'm Faizan Hussain
 
+Welcome to my GitHub profile! I'm passionate about exploring technology and working on innovative projects. Here's a little about me:
 
-<!---**Faizi805/Faizi805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+---
 
-About me:
-- ⚡ I’m currently doing my Bachelors in Electrical Engineering from NUST Pakistan
-- 🔭 I’m currently working on Deep Learning and React
-- 🌱 I’m currently learning MERN stack
-<!-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ...-->
-- 💬 Ask me about C/C++,verilog, assembly, Javascript and React, 
-- 📫 How to reach me: faizishah805@gmail.com
-<!--- 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
+### About Me
+
+- 🌟 **Education**: I'm pursuing my Bachelor's degree in Electrical Engineering at NUST, Pakistan.
+- 🔧 **Current Focus**: Deep Learning and React development.
+- 🌱 **Learning Journey**: MERN stack.
+- ✍️ **Programming Expertise**: C, C++, Verilog, Assembly, JavaScript, and React.
+- 📧 **Contact Me**: Feel free to reach out at faizishah805@gmail.com.
+
+---
+
+### Tech Stack & Tools
+
+- **Languages**: C, C++, JavaScript, Assembly
+- **Web Development**: React, MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- **Hardware Design**: Verilog
+- **Other Interests**: Deep Learning and AI projects
+
+---
+
+### Let's Connect
+
+- 🔗 [LinkedIn]()
+- 🎮 [Portfolio]()
+
+---
+
+### Fun Fact
+
+I’m always excited to learn new things and collaborate on challenging projects. Let’s innovate together!
+
+Feel free to explore my repositories and drop me a message if you’d like to collaborate! 🚀
+
